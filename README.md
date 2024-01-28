@@ -1,4 +1,4 @@
-# AWESOME XRP Ledger Ripple Ethereum & WEB3 Developer Resources
+# AWESOME XRP Ledger Ripple Xahau Ethereum & WEB3 Developer Resources
 
 
 
