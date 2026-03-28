@@ -225,3 +225,26 @@
 
 
 
+
+
+<br><br>
+
+## 
+###### <sub>*1-xrpai*</sub>🚪
+### AI Agents & Identity 🤖
+
+  - **XAIP** - XRPL Agent Identity Protocol [🧱](https://github.com/xkumakichi/xaip-protocol) [📦](https://www.npmjs.com/package/xaip-sdk) <sub>*AI agents that live, grow, and build trust on XRPL*</sub>
+    - TypeScript SDK: `npm install xaip-sdk`
+    - MCP Server: `npm install -g xaip-mcp-server` [📦](https://www.npmjs.com/package/xaip-mcp-server)
+    - Uses XLS-40 (DID) + XLS-70 (Credentials) + Native Escrow
+    - Features: Agent Identity, Capability Credentials, Trust Scoring, A2A Commerce, Agent Discovery
+  - []()
+  - **XRPL MCP Servers**
+    - mcp-xrpl [🧱](https://github.com/RomThpt/mcp-xrpl) <sub>*70+ tools, custody system, TypeScript*</sub>
+    - xrpl-mcp-server [🧱](https://github.com/lgcarrier/xrpl-mcp-server) <sub>*Python, read-only + submit*</sub>
+  - []()
+  - **Related**
+    - XLS-40 DID [{✘}](https://xrpl.org/docs/concepts/decentralized-storage/decentralized-identifiers) <sub>*Decentralized Identifiers on XRPL*</sub>
+    - XLS-70 Credentials [👨](https://github.com/XRPLF/XRPL-Standards/discussions/202) <sub>*Verifiable Credentials on XRPL*</sub>
+    - xrpl-dev-skills [🧱](https://github.com/XRPL-Commons/xrpl-dev-skills) <sub>*Claude skills for XRPL development*</sub>
+
