@@ -192,6 +192,7 @@
   - OpenXRP/ [🧱](https://github.com/orgs/OpenXRP) [🧱](https://github.com/TheArchitect123) <sub>*Dedicated to "Filling in the gaps" of anything that is currently missing in the ripple ecosystem. We build what ripple didn't think of*</sub>
     - /repositories <sup>java c# xamarin unity ...</sup>[🧱](https://github.com/orgs/OpenXRP/repositories)
   - Treasury <sup>xaman xrpl</sup> [🌎](https://www.trsryxrpl.com/about-us/) [🌎](https://www.trsryxrpl.com/academy/) [🐦](https://twitter.com/TREASURYxrpl) <sub>*EDUCATE NURTURE REWARD PROTECT*</sub>
+  - Thoth Oracle <sup>xaman xrpl game</sup> [🌎](https://thothoracle.com/) <sub>*Daily riddle generated from real XRPL mainnet ledger data, an AI ledger oracle, and a server-verified card duel. Read-only*</sub>
 - []()
 
 
